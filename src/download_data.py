@@ -1,7 +1,7 @@
 import yfinance as yf
 
 
-def download_stock_data(ticker="TSLA", start="2018-01-01", end="2024-01-01"):
+def download_stock_data(ticker="PYPL", start="2014-01-01", end="2024-01-01"):
     """
     Download historical stock data from Yahoo Finance.
 

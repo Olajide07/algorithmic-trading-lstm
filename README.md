@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project develops a supervised deep learning model that predicts whether the next day's closing price of Tesla (NASDAQ: TSLA) will move **UP** or **DOWN** based on the previous **60 trading days** of historical prices.
+This project develops a supervised deep learning model that predicts whether the next day's closing price of Tesla (NASDAQ: PYPL) will move **UP** or **DOWN** based on the previous **60 trading days** of historical prices.
 
 The project demonstrates the complete machine learning workflow, from downloading financial data to preprocessing, training an LSTM neural network, and evaluating predictive performance.
 
@@ -23,9 +23,9 @@ The project demonstrates the complete machine learning workflow, from downloadin
 ## Dataset
 
 - **Source:** Yahoo Finance
-- **Stock:** Tesla Inc. (NASDAQ: TSLA)
+- **Stock:** Tesla Inc. (NASDAQ: PYPL)
 - **Features:** Daily Closing Price
-- **Period:** 2018–2024
+- **Period:** 2014–2024
 
 ---
 
